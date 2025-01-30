@@ -1,0 +1,6 @@
+td, table{
+    border: 1px solid darkorange; 
+    background-color: moccasin; 
+    text-align: center; 
+    padding: 5px;
+}

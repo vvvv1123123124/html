@@ -1,0 +1,41 @@
+td, table{
+    border: 1px solid #BFB5FF; 
+    background-color: #B5F5FF; 
+    text-align: center; 
+    padding: 25px;
+    margin: auto;
+    margin-top: 65px;
+}
+h1 { 
+    padding-top: 40px;
+}
+p{
+    font-size: 20px;
+}
+.a { background-color: #B5D0FF; }
+.times{
+    border: 10px solid #BFB5FF;;
+    padding: 2px 8px 2px 8px;
+    border-spacing: 10px 5px;
+    letter-spacing: 4px;
+    text-align: left;
+}
+body{
+    background-color: rgb(218, 238, 252);
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+
+ul {
+    padding-left: 2rem;
+    list-style-type: none;
+  }
+  
+  ul li {
+    padding-left: 2rem;
+    background-image: url("https://pngimg.com/uploads/lightning/lightning_PNG52.png");
+    background-position: 0 0;
+    background-size: 1.6rem 1.6rem;
+    background-repeat: no-repeat;
+    text-align: left;
+  }
